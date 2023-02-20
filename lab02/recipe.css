@@ -1,0 +1,50 @@
+body {
+	background-color: #FFDEAD;
+}
+
+p {
+	color: #A0522D;
+	font-family: Playfair Display;
+	margin: 5% 10%;
+}
+
+h1 {
+	color: #800000;
+	font-size: 2em;
+	font-family: Gloock;
+}
+
+h2 {
+	color: #A52A2A;
+	font-size: 1.5em;
+	font-family: Eagle Lake;
+}
+
+h3 {
+	color: #A52A2A;
+	font-size: 1em;
+	font-family: Eagle Lake;
+}
+
+h4 {
+	color: #A52A2A;
+	font-size: 1em;
+	font-family: Eagle Lake;
+}
+
+h5 {
+	color: #A52A2A;
+	font-size: 1em;
+	font-family: Eagle Lake;
+}
+
+h6 {
+	color: #A52A2A;
+	font-size: 1em;
+	font-family: Eagle Lake;
+}
+
+li {
+	color: #A0522D;
+	font-family: Playfair Display;
+}
